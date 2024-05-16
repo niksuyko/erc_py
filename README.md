@@ -1,4 +1,4 @@
-# Ethereum ERC20 Contract Scraper
+# Ethereum ERC20 Contract Scraper + Solidity Sample
 
 This project is a Python script that connects to the Ethereum blockchain via WebSocket, listens for new blocks, and checks for new ERC20 contracts deployed. The script uses the `web3.py` library to interact with the Ethereum blockchain and the `websocket-client` library to handle WebSocket connections.
 
